@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Retro Idle – Browser-Game">
+<defs><linearGradient id="bg"><stop stop-color="#101c2d"/><stop offset="1" stop-color="#070c14"/></linearGradient><linearGradient id="gold" x2="1" y2="1"><stop stop-color="#ffe4a3"/><stop offset="1" stop-color="#b57d24"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="228" rx="18" fill="url(#bg)" stroke="#243b50"/>
+<path d="M710 35h200v40h-40v45h65v75H730v-45h40v-40h-60z" fill="none" stroke="#218cd1" opacity=".18" stroke-width="2"/>
+<text x="40" y="45" fill="#d6ad52" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="3">KAISER SOFTWARE / FEATURED PROJECT</text>
+<text x="37" y="110" fill="#f5f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">RETRO IDLE</text>
+<text x="40" y="146" fill="#a8bed0" font-family="Segoe UI,Arial,sans-serif" font-size="19">Ein Viertel. Dein Imperium. Dein Code.</text>
+<text x="40" y="192" fill="#65b8ed" font-family="Segoe UI,Arial,sans-serif" font-size="14">REACT · TYPESCRIPT · NODE.JS · SQLITE</text>
+<g transform="translate(785 56)"><rect width="120" height="128" rx="9" fill="#142537" stroke="#31658b"/><path d="M-12 20L60-14l72 34z" fill="url(#gold)"/><g fill="#d6ad52"><rect x="20" y="39" width="22" height="22"/><rect x="77" y="39" width="22" height="22"/><rect x="20" y="77" width="22" height="22"/><rect x="77" y="77" width="22" height="22"/></g><rect x="51" y="94" width="19" height="34" fill="#369dde"/></g>
+</svg>
