@@ -1,6 +1,6 @@
-<p align="center"><img src="assets/kaiser-software-brand.png" alt="Kaiser Software – goldene Krone und blaue Leiterbahnen" width="100%" /></p>
+<p align="center"><img src="assets/kaiser-profile-banner.png" alt="Kaiser Software – goldene Krone und blaue Leiterbahnen" width="100%" /></p>
 
-<h3 align="center">IDEEN. CODE. MÖGLICHKEITEN.</h3>
+<h3 align="center">DEINE IDEE. UNSER CODE.</h3>
 <p align="center">Web-Anwendungen · Discord-Bots · Automatisierung · Game Development</p>
 <p align="center">
 <a href="https://kaiser-software.com/"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-kaiser--software.com-D6AD52?style=for-the-badge&labelColor=0B1420" /></a>
@@ -30,8 +30,8 @@ Ich bin **Leon Kaiser**. Ich entwickle eigene Softwareprojekte – vom Verwaltun
 
 ### Mein Werkzeugkasten
 
-**Frontend & Games** &nbsp; React · TypeScript · JavaScript · HTML/CSS · Vite  
-**Backend & Tools** &nbsp; Node.js · Python · SQLite · HTTP-APIs · Discord-Bots  
+**Frontend & Games** &nbsp; React · TypeScript · JavaScript · HTML/CSS · Vite<br />
+**Backend & Tools** &nbsp; Node.js · Python · SQLite · HTTP-APIs · Discord-Bots<br />
 **Arbeitsweise** &nbsp; Git · automatisierte Tests · klare Dokumentation
 
 ---
